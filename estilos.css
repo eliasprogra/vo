@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background-image: url(file:///C:/Users/expre/Downloads/WhatsApp%20Image%202024-02-14%20at%2011.25.38.jpeg);
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    text-align: center;
+}
+
+p{
+    font-size: 10cm;
+    padding: 10%;
+    color: aliceblue;
+}
+
+button{
+    font-size: 3cm;
+    padding: 1em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#notBtn{
+    position: absolute;
+}
